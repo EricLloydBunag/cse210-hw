@@ -1,5 +1,7 @@
 using System;
 
+//To exceed requirements and show creativity, I made the journal save the entries into a .json file, and the changed the formatting of the date in the Entry class.
+
 
 class Program
 {

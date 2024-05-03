@@ -1,7 +1,5 @@
 using System.Text.Json;
 
-//To exceed requirements and show creativity, I made the journal save the entries into a .json file, and the changed the formatting of the date in the Entry class.
-
 public class Journal{
     public List<Entry> _entriesList = new List<Entry>();
 
